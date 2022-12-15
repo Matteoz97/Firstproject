@@ -1,0 +1,79 @@
+html{
+   background-image: url('/MaterialeEsercizioLim/background.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   color: white;
+   font-family: 'Roboto', sans-serif;
+}
+
+img{
+    width: 180px;
+}
+
+header{
+    text-align: center;
+}
+
+.Button{
+    background-color: lime;
+    text-align: center;
+    padding: 7px;
+    
+}
+
+h1 {
+    color: lime;
+    margin: 3px;
+}
+
+.container{
+    width: 1000px;
+    background-color:rgba(0,0,0,0.6);
+    margin: auto;
+    padding: 40px;
+}
+
+.monopattino{
+    padding: 20px;
+}
+
+.carica-1{
+    background-color:orange;
+    width: 300px;
+    height: 20px;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+.carica-2{
+    background-color:lime;
+    width: 600px;
+    height: 20px;
+    border: radius 3px;
+    padding: 10px;
+}
+
+.carica-3{
+    background-color: red;
+    width: 120px;
+    height: 20px;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+.righe{
+    padding: 4px;
+    font-size: small;
+    font-weight: 300;
+}
+
+.stato{
+    font-weight: 300;
+    font-size: small;
+    padding: 2px;
+}
+
+.text{
+    font-size:larger;
+    font-weight: 700;
+}
